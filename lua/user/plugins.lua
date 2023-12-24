@@ -105,6 +105,9 @@ return packer.startup(function(use)
     -- lualine
     use "nvim-lualine/lualine.nvim"
 
+    -- vimwiki
+    use "lervag/vimtex"
+
     -- Auto set up config after cloning packer.nvim
     -- Put at end after all plugins
     if PACKER_BOOTSTRAP then

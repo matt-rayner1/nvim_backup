@@ -228,6 +228,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/user0/.local/share/nvim/site/pack/packer/start/vim-illuminate",
     url = "https://github.com/RRethy/vim-illuminate"
+  },
+  vimtex = {
+    loaded = true,
+    path = "/home/user0/.local/share/nvim/site/pack/packer/start/vimtex",
+    url = "https://github.com/lervag/vimtex"
   }
 }
 
