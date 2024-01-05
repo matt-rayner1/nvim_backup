@@ -42,7 +42,6 @@ local options = {
     termguicolors = false,
     cursorline = false,
     wrap = false,
-    guifont = "terminess:h17",
 
     -- timing options
     timeoutlen = 1000,
